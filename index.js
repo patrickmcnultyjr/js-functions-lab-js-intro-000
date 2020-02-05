@@ -1,4 +1,5 @@
-var happyHolidays = "Happy holidays!"// w
+var happyHolidays = "Happy holidays!"
+
 function happyHolidays {
   return(happyHolidays)
 }
