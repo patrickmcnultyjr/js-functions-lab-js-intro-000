@@ -1,5 +1,5 @@
-var happyHolidays = "Happy holidays!"
+var happy = "Happy holidays!"
 
 function happyHolidays() {
-  return(happyHolidays);
+  return(happy);
 }
