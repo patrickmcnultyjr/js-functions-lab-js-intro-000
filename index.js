@@ -1,1 +1,2 @@
-// write your code below!
+var happyHolidays = "Happy Holidays!"// w
+console.log(happyHolidays)
